@@ -1,0 +1,3 @@
+choose from pre-programmed architectures :
+1.Nahelam
+enter the cache size : 
